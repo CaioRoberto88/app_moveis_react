@@ -1,0 +1,30 @@
+.container-moveis-em-negociacao p {
+  letter-spacing: 0;
+}
+
+.img-moveis-negociacao {
+  width: 90px;
+}
+
+.container-negociacao {
+  line-height: 90px;
+}
+
+.bi-whatsapp {
+  font-size: 1rem;
+  color: #31ba44;
+}
+
+
+@media (max-width: 992px) {
+  .container-negociacao {
+    line-height: 40px;
+  }
+  .bi-whatsapp {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+
+

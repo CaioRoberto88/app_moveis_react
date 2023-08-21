@@ -1,0 +1,9 @@
+.perfil-usuario span {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #401801;
+}
+
+.perfil-usuario p {
+  color: #fff;
+}

@@ -1,0 +1,19 @@
+footer {
+  color: #fff;
+  background-color: #401801;
+  max-width: 1140px;
+  padding: 2rem;
+  margin: auto;
+}
+
+footer p:first-child {
+  font-size: 0.8rem;
+}
+footer p:last-child,
+span {
+  font-size: 0.8rem;
+}
+
+.my-linkedin {
+  text-decoration: underline;
+}
